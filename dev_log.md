@@ -18,3 +18,6 @@
 
 ## 2026-01-10T12:29:08
 - synced changes
+
+## 2026-01-20T15:42:37
+- fixed edge case
